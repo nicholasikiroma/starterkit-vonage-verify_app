@@ -22,9 +22,3 @@ Install dependencies
 ```bash
 pip3 install -r requirements.txt
 ```
-
-Run app
-```bash
-flask run --debug
-```
-
