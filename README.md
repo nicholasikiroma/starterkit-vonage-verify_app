@@ -6,16 +6,25 @@
 clone repo
 
 ```bash
-    $ git clone https://github.com/nicholasikiroma/vonage-verify_app
+git clone https://github.com/nicholasikiroma/vonage-verify_app
+```
+
+Create virtual environment
+```bash
+virtualenv venv
+```
+Activate virtual environment
+```bash
+source venv/bin/activate
 ```
 
 Install dependencies
 ```bash
-    $ pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Run app
 ```bash
-    flask run --debug
+flask run --debug
 ```
 
