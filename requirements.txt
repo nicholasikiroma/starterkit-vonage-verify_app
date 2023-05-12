@@ -2,6 +2,6 @@ flask
 flask-login
 flask-wtf
 flask-sqlalchemy
-python-dotevn
+python-dotenv
 vonage
 
