@@ -1,16 +1,16 @@
 # Project Title - Starter-kit for Flask-Vonage Tutorial
 ![flask-vonage tutorial](https://images2.imgbox.com/7c/8a/XrfTBCSs_o.png?download=true)
 ## Description:
-Starter kit for Flask-vonafe Tutorial
+Starter kit for Flask-Vonage Tutorial
 ## Usage:
 clone repo
 ```bash
-git clone https://github.com/nicholasikiroma/vonage-verify_app
+git clone https://github.com/nicholasikiroma/starterkit-vonage-verify_app.git
 ```
 
 Navigate to project directory
 ```bash
-cd vonage-verify_app
+cd starterkit-vonage-verify_app
 ```
 Install virtuelenv (if you don't have it installed already)
 ```bash
